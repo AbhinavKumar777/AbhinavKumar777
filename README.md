@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhinav Kumar
-- 👀 I’m interested in Web dev, ML and Cp
+- 👀 I’m a front-end Web dev and ML Engineer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Interesting, Useful and Challenging Projects
 - 📫 How to reach me instagram - abinvkmr
